@@ -1,0 +1,1508 @@
+[
+ {
+   "name": "United Arab Emirates",
+   "code": "AE",
+   "flag": "🇦🇪",
+   "appStore": true
+ },
+ {
+   "name": "Afghanistan",
+   "code": "AF",
+   "flag": "🇦🇫",
+   "appStore": true
+ },
+ {
+   "name": "Antigua & Barbuda",
+   "code": "AG",
+   "flag": "🇦🇬",
+   "appStore": true
+ },
+ {
+   "name": "Anguilla",
+   "code": "AI",
+   "flag": "🇦🇮",
+   "appStore": true
+ },
+ {
+   "name": "Albania",
+   "code": "AL",
+   "flag": "🇦🇱",
+   "appStore": true
+ },
+ {
+   "name": "Armenia",
+   "code": "AM",
+   "flag": "🇦🇲",
+   "appStore": true
+ },
+ {
+   "name": "Angola",
+   "code": "AO",
+   "flag": "🇦🇴",
+   "appStore": true
+ },
+ {
+   "name": "Argentina",
+   "code": "AR",
+   "flag": "🇦🇷",
+   "appStore": true
+ },
+ {
+   "name": "Austria",
+   "code": "AT",
+   "flag": "🇦🇹",
+   "appStore": true
+ },
+ {
+   "name": "Australia",
+   "code": "AU",
+   "flag": "🇦🇺",
+   "appStore": true
+ },
+ {
+   "name": "Azerbaijan",
+   "code": "AZ",
+   "flag": "🇦🇿",
+   "appStore": true
+ },
+ {
+   "name": "Bosnia and Herzegovina",
+   "code": "BA",
+   "flag": "🇧🇦",
+   "appStore": true
+ },
+ {
+   "name": "Barbados",
+   "code": "BB",
+   "flag": "🇧🇧",
+   "appStore": true
+ },
+ {
+   "name": "Belgium",
+   "code": "BE",
+   "flag": "🇧🇪",
+   "appStore": true
+ },
+ {
+   "name": "Burkina Faso",
+   "code": "BF",
+   "flag": "🇧🇫",
+   "appStore": true
+ },
+ {
+   "name": "Bulgaria",
+   "code": "BG",
+   "flag": "🇧🇬",
+   "appStore": true
+ },
+ {
+   "name": "Bahrain",
+   "code": "BH",
+   "flag": "🇧🇭",
+   "appStore": true
+ },
+ {
+   "name": "Benin",
+   "code": "BJ",
+   "flag": "🇧🇯",
+   "appStore": true
+ },
+ {
+   "name": "Bermuda",
+   "code": "BM",
+   "flag": "🇧🇲",
+   "appStore": true
+ },
+ {
+   "name": "Brunei",
+   "code": "BN",
+   "flag": "🇧🇳",
+   "appStore": true
+ },
+ {
+   "name": "Bolivia",
+   "code": "BO",
+   "flag": "🇧🇴",
+   "appStore": true
+ },
+ {
+   "name": "Brazil",
+   "code": "BR",
+   "flag": "🇧🇷",
+   "appStore": true
+ },
+ {
+   "name": "Bahamas",
+   "code": "BS",
+   "flag": "🇧🇸",
+   "appStore": true
+ },
+ {
+   "name": "Bhutan",
+   "code": "BT",
+   "flag": "🇧🇹",
+   "appStore": true
+ },
+ {
+   "name": "Botswana",
+   "code": "BW",
+   "flag": "🇧🇼",
+   "appStore": true
+ },
+ {
+   "name": "Belarus",
+   "code": "BY",
+   "flag": "🇧🇾",
+   "appStore": true
+ },
+ {
+   "name": "Belize",
+   "code": "BZ",
+   "flag": "🇧🇿",
+   "appStore": true
+ },
+ {
+   "name": "Canada",
+   "code": "CA",
+   "flag": "🇨🇦",
+   "appStore": true
+ },
+ {
+   "name": "Congo, Democratic Republic Of The",
+   "code": "CD",
+   "flag": "🇨🇩",
+   "appStore": true
+ },
+ {
+   "name": "Congo, Republic of",
+   "code": "CG",
+   "flag": "🇨🇬",
+   "appStore": true
+ },
+ {
+   "name": "Switzerland",
+   "code": "CH",
+   "flag": "🇨🇭",
+   "appStore": true
+ },
+ {
+   "name": "Cote D'Ivoire",
+   "code": "CI",
+   "flag": "🇨🇮",
+   "appStore": true
+ },
+ {
+   "name": "Chile",
+   "code": "CL",
+   "flag": "🇨🇱",
+   "appStore": true
+ },
+ {
+   "name": "Cameroon",
+   "code": "CM",
+   "flag": "🇨🇲",
+   "appStore": true
+ },
+ {
+   "name": "China",
+   "code": "CN",
+   "flag": "🇨🇳",
+   "appStore": true
+ },
+ {
+   "name": "Columbia",
+   "code": "CO",
+   "flag": "🇨🇴",
+   "appStore": true
+ },
+ {
+   "name": "Costa Rica",
+   "code": "CR",
+   "flag": "🇨🇷",
+   "appStore": true
+ },
+ {
+   "name": "Cape Verde",
+   "code": "CV",
+   "flag": "🇨🇻",
+   "appStore": true
+ },
+ {
+   "name": "Cyprus",
+   "code": "CY",
+   "flag": "🇨🇾",
+   "appStore": true
+ },
+ {
+   "name": "Czech Republic",
+   "code": "CZ",
+   "flag": "🇨🇿",
+   "appStore": true
+ },
+ {
+   "name": "Germany",
+   "code": "DE",
+   "flag": "🇩🇪",
+   "appStore": true
+ },
+ {
+   "name": "Denmark",
+   "code": "DK",
+   "flag": "🇩🇰",
+   "appStore": true
+ },
+ {
+   "name": "Dominica",
+   "code": "DM",
+   "flag": "🇩🇲",
+   "appStore": true
+ },
+ {
+   "name": "Dominican Republic",
+   "code": "DO",
+   "flag": "🇩🇴",
+   "appStore": true
+ },
+ {
+   "name": "Algeria",
+   "code": "DZ",
+   "flag": "🇩🇿",
+   "appStore": true
+ },
+ {
+   "name": "Ecuador",
+   "code": "EC",
+   "flag": "🇪🇨",
+   "appStore": true
+ },
+ {
+   "name": "Estonia",
+   "code": "EE",
+   "flag": "🇪🇪",
+   "appStore": true
+ },
+ {
+   "name": "Egypt",
+   "code": "EG",
+   "flag": "🇪🇬",
+   "appStore": true
+ },
+ {
+   "name": "Spain",
+   "code": "ES",
+   "flag": "🇪🇸",
+   "appStore": true
+ },
+ {
+   "name": "Finland",
+   "code": "FI",
+   "flag": "🇫🇮",
+   "appStore": true
+ },
+ {
+   "name": "Fiji",
+   "code": "FJ",
+   "flag": "🇫🇯",
+   "appStore": true
+ },
+ {
+   "name": "Micronesia",
+   "code": "FM",
+   "flag": "🇫🇲",
+   "appStore": true
+ },
+ {
+   "name": "France",
+   "code": "FR",
+   "flag": "🇫🇷",
+   "appStore": true
+ },
+ {
+   "name": "Gabon",
+   "code": "GA",
+   "flag": "🇬🇦",
+   "appStore": true
+ },
+ {
+   "name": "United Kingdom",
+   "code": "GB",
+   "flag": "🇬🇧",
+   "appStore": true
+ },
+ {
+   "name": "Grenada",
+   "code": "GD",
+   "flag": "🇬🇩",
+   "appStore": true
+ },
+ {
+   "name": "Georgia",
+   "code": "GE",
+   "flag": "🇬🇪",
+   "appStore": true
+ },
+ {
+   "name": "Ghana",
+   "code": "GH",
+   "flag": "🇬🇭",
+   "appStore": true
+ },
+ {
+   "name": "Gambia",
+   "code": "GM",
+   "flag": "🇬🇲",
+   "appStore": true
+ },
+ {
+   "name": "Greece",
+   "code": "GR",
+   "flag": "🇬🇷",
+   "appStore": true
+ },
+ {
+   "name": "Guatemala",
+   "code": "GT",
+   "flag": "🇬🇹",
+   "appStore": true
+ },
+ {
+   "name": "Guinea-Bissau",
+   "code": "GW",
+   "flag": "🇬🇼",
+   "appStore": true
+ },
+ {
+   "name": "Guyana",
+   "code": "GY",
+   "flag": "🇬🇾",
+   "appStore": true
+ },
+ {
+   "name": "Hong Kong",
+   "code": "HK",
+   "flag": "🇭🇰",
+   "appStore": true
+ },
+ {
+   "name": "Honduras",
+   "code": "HN",
+   "flag": "🇭🇳",
+   "appStore": true
+ },
+ {
+   "name": "Croatia",
+   "code": "HR",
+   "flag": "🇭🇷",
+   "appStore": true
+ },
+ {
+   "name": "Hungary",
+   "code": "HU",
+   "flag": "🇭🇺",
+   "appStore": true
+ },
+ {
+   "name": "Indonesia",
+   "code": "ID",
+   "flag": "🇮🇩",
+   "appStore": true
+ },
+ {
+   "name": "Ireland",
+   "code": "IE",
+   "flag": "🇮🇪",
+   "appStore": true
+ },
+ {
+   "name": "Israel",
+   "code": "IL",
+   "flag": "🇮🇱",
+   "appStore": true
+ },
+ {
+   "name": "India",
+   "code": "IN",
+   "flag": "🇮🇳",
+   "appStore": true
+ },
+ {
+   "name": "Iraq",
+   "code": "IQ",
+   "flag": "🇮🇶",
+   "appStore": true
+ },
+ {
+   "name": "Iceland",
+   "code": "IS",
+   "flag": "🇮🇸",
+   "appStore": true
+ },
+ {
+   "name": "Italy",
+   "code": "IT",
+   "flag": "🇮🇹",
+   "appStore": true
+ },
+ {
+   "name": "Jamaica",
+   "code": "JM",
+   "flag": "🇯🇲",
+   "appStore": true
+ },
+ {
+   "name": "Jordan",
+   "code": "JO",
+   "flag": "🇯🇴",
+   "appStore": true
+ },
+ {
+   "name": "Japan",
+   "code": "JP",
+   "flag": "🇯🇵",
+   "appStore": true
+ },
+ {
+   "name": "Kenya",
+   "code": "KE",
+   "flag": "🇰🇪",
+   "appStore": true
+ },
+ {
+   "name": "Kyrgyzstan",
+   "code": "KG",
+   "flag": "🇰🇬",
+   "appStore": true
+ },
+ {
+   "name": "Cambodia",
+   "code": "KH",
+   "flag": "🇰🇭",
+   "appStore": true
+ },
+ {
+   "name": "St. Kitts & Nevis",
+   "code": "KN",
+   "flag": "🇰🇳",
+   "appStore": true
+ },
+ {
+   "name": "South Korea",
+   "code": "KR",
+   "flag": "🇰🇷",
+   "appStore": true
+ },
+ {
+   "name": "Kuwait",
+   "code": "KW",
+   "flag": "🇰🇼",
+   "appStore": true
+ },
+ {
+   "name": "Cayman Islands",
+   "code": "KY",
+   "flag": "🇰🇾",
+   "appStore": true
+ },
+ {
+   "name": "Kazakhstan",
+   "code": "KZ",
+   "flag": "🇰🇿",
+   "appStore": true
+ },
+ {
+   "name": "Laos",
+   "code": "LA",
+   "flag": "🇱🇦",
+   "appStore": true
+ },
+ {
+   "name": "Lebanon",
+   "code": "LB",
+   "flag": "🇱🇧",
+   "appStore": true
+ },
+ {
+   "name": "Saint Lucia",
+   "code": "LC",
+   "flag": "🇱🇨",
+   "appStore": true
+ },
+ {
+   "name": "Sri Lanka",
+   "code": "LK",
+   "flag": "🇱🇰",
+   "appStore": true
+ },
+ {
+   "name": "Liberia",
+   "code": "LR",
+   "flag": "🇱🇷",
+   "appStore": true
+ },
+ {
+   "name": "Lithuania",
+   "code": "LT",
+   "flag": "🇱🇹",
+   "appStore": true
+ },
+ {
+   "name": "Luxembourg",
+   "code": "LU",
+   "flag": "🇱🇺",
+   "appStore": true
+ },
+ {
+   "name": "Latvia",
+   "code": "LV",
+   "flag": "🇱🇻",
+   "appStore": true
+ },
+ {
+   "name": "Libya",
+   "code": "LY",
+   "flag": "🇱🇾",
+   "appStore": true
+ },
+ {
+   "name": "Morocco",
+   "code": "MA",
+   "flag": "🇲🇦",
+   "appStore": true
+ },
+ {
+   "name": "Moldova",
+   "code": "MD",
+   "flag": "🇲🇩",
+   "appStore": true
+ },
+ {
+   "name": "Montenegro",
+   "code": "ME",
+   "flag": "🇲🇪",
+   "appStore": true
+ },
+ {
+   "name": "Macedonia",
+   "code": "MK",
+   "flag": "🇲🇰",
+   "appStore": true
+ },
+ {
+   "name": "Mali",
+   "code": "ML",
+   "flag": "🇲🇱",
+   "appStore": true
+ },
+ {
+   "name": "Myanmar",
+   "code": "MM",
+   "flag": "🇲🇲",
+   "appStore": true
+ },
+ {
+   "name": "Mongolia",
+   "code": "MN",
+   "flag": "🇲🇳",
+   "appStore": true
+ },
+ {
+   "name": "Macau",
+   "code": "MO",
+   "flag": "🇲🇴",
+   "appStore": true
+ },
+ {
+   "name": "Mauritania",
+   "code": "MR",
+   "flag": "🇲🇷",
+   "appStore": true
+ },
+ {
+   "name": "Montserrat",
+   "code": "MS",
+   "flag": "🇲🇸",
+   "appStore": true
+ },
+ {
+   "name": "Malta",
+   "code": "MT",
+   "flag": "🇲🇹",
+   "appStore": true
+ },
+ {
+   "name": "Mauritius",
+   "code": "MU",
+   "flag": "🇲🇺",
+   "appStore": true
+ },
+ {
+   "name": "Maldives",
+   "code": "MV",
+   "flag": "🇲🇻",
+   "appStore": true
+ },
+ {
+   "name": "Malawi",
+   "code": "MW",
+   "flag": "🇲🇼",
+   "appStore": true
+ },
+ {
+   "name": "Mexico",
+   "code": "MX",
+   "flag": "🇲🇽",
+   "appStore": true
+ },
+ {
+   "name": "Malaysia",
+   "code": "MY",
+   "flag": "🇲🇾",
+   "appStore": true
+ },
+ {
+   "name": "Mozambique",
+   "code": "MZ",
+   "flag": "🇲🇿",
+   "appStore": true
+ },
+ {
+   "name": "Namibia",
+   "code": "NA",
+   "flag": "🇳🇦",
+   "appStore": true
+ },
+ {
+   "name": "Niger",
+   "code": "NE",
+   "flag": "🇳🇪",
+   "appStore": true
+ },
+ {
+   "name": "Nigeria",
+   "code": "NG",
+   "flag": "🇳🇬",
+   "appStore": true
+ },
+ {
+   "name": "Nicaragua",
+   "code": "NI",
+   "flag": "🇳🇮",
+   "appStore": true
+ },
+ {
+   "name": "Netherlands",
+   "code": "NL",
+   "flag": "🇳🇱",
+   "appStore": true
+ },
+ {
+   "name": "Norway",
+   "code": "NO",
+   "flag": "🇳🇴",
+   "appStore": true
+ },
+ {
+   "name": "Nepal",
+   "code": "NP",
+   "flag": "🇳🇵",
+   "appStore": true
+ },
+ {
+   "name": "Nauru",
+   "code": "NR",
+   "flag": "🇳🇷",
+   "appStore": true
+ },
+ {
+   "name": "New Zealand",
+   "code": "NZ",
+   "flag": "🇳🇿",
+   "appStore": true
+ },
+ {
+   "name": "Oman",
+   "code": "OM",
+   "flag": "🇴🇲",
+   "appStore": true
+ },
+ {
+   "name": "Panama",
+   "code": "PA",
+   "flag": "🇵🇦",
+   "appStore": true
+ },
+ {
+   "name": "Peru",
+   "code": "PE",
+   "flag": "🇵🇪",
+   "appStore": true
+ },
+ {
+   "name": "Papua New Guinea",
+   "code": "PG",
+   "flag": "🇵🇬",
+   "appStore": true
+ },
+ {
+   "name": "Philippines",
+   "code": "PH",
+   "flag": "🇵🇭",
+   "appStore": true
+ },
+ {
+   "name": "Pakistan",
+   "code": "PK",
+   "flag": "🇵🇰",
+   "appStore": true
+ },
+ {
+   "name": "Poland",
+   "code": "PL",
+   "flag": "🇵🇱",
+   "appStore": true
+ },
+ {
+   "name": "Portugal",
+   "code": "PT",
+   "flag": "🇵🇹",
+   "appStore": true
+ },
+ {
+   "name": "Palau",
+   "code": "PW",
+   "flag": "🇵🇼",
+   "appStore": true
+ },
+ {
+   "name": "Paraguay",
+   "code": "PY",
+   "flag": "🇵🇾",
+   "appStore": true
+ },
+ {
+   "name": "Qatar",
+   "code": "QA",
+   "flag": "🇶🇦",
+   "appStore": true
+ },
+ {
+   "name": "Romania",
+   "code": "RO",
+   "flag": "🇷🇴",
+   "appStore": true
+ },
+ {
+   "name": "Serbia",
+   "code": "RS",
+   "flag": "🇷🇸",
+   "appStore": true
+ },
+ {
+   "name": "Russia",
+   "code": "RU",
+   "flag": "🇷🇺",
+   "appStore": true
+ },
+ {
+   "name": "Rwanda",
+   "code": "RW",
+   "flag": "🇷🇼",
+   "appStore": true
+ },
+ {
+   "name": "Saudi Arabia",
+   "code": "SA",
+   "flag": "🇸🇦",
+   "appStore": true
+ },
+ {
+   "name": "Solomon Islands",
+   "code": "SB",
+   "flag": "🇸🇧",
+   "appStore": true
+ },
+ {
+   "name": "Seychelles",
+   "code": "SC",
+   "flag": "🇸🇨",
+   "appStore": true
+ },
+ {
+   "name": "Sweden",
+   "code": "SE",
+   "flag": "🇸🇪",
+   "appStore": true
+ },
+ {
+   "name": "Singapore",
+   "code": "SG",
+   "flag": "🇸🇬",
+   "appStore": true
+ },
+ {
+   "name": "Slovenia",
+   "code": "SI",
+   "flag": "🇸🇮",
+   "appStore": true
+ },
+ {
+   "name": "Slovakia",
+   "code": "SK",
+   "flag": "🇸🇰",
+   "appStore": true
+ },
+ {
+   "name": "Sierra Leone",
+   "code": "SL",
+   "flag": "🇸🇱",
+   "appStore": true
+ },
+ {
+   "name": "Senegal",
+   "code": "SN",
+   "flag": "🇸🇳",
+   "appStore": true
+ },
+ {
+   "name": "Suriname",
+   "code": "SR",
+   "flag": "🇸🇷",
+   "appStore": true
+ },
+ {
+   "name": "Sao Tome & Principe",
+   "code": "ST",
+   "flag": "🇸🇹",
+   "appStore": true
+ },
+ {
+   "name": "El Salvador",
+   "code": "SV",
+   "flag": "🇸🇻",
+   "appStore": true
+ },
+ {
+   "name": "Swaziland",
+   "code": "SZ",
+   "flag": "🇸🇿",
+   "appStore": true
+ },
+ {
+   "name": "Turks & Caicos",
+   "code": "TC",
+   "flag": "🇹🇨",
+   "appStore": true
+ },
+ {
+   "name": "Chad",
+   "code": "TD",
+   "flag": "🇹🇩",
+   "appStore": true
+ },
+ {
+   "name": "Thailand",
+   "code": "TH",
+   "flag": "🇹🇭",
+   "appStore": true
+ },
+ {
+   "name": "Tajikistan",
+   "code": "TJ",
+   "flag": "🇹🇯",
+   "appStore": true
+ },
+ {
+   "name": "Turkmenistan",
+   "code": "TM",
+   "flag": "🇹🇲",
+   "appStore": true
+ },
+ {
+   "name": "Tunisia",
+   "code": "TN",
+   "flag": "🇹🇳",
+   "appStore": true
+ },
+ {
+   "name": "Tonga",
+   "code": "TO",
+   "flag": "🇹🇴",
+   "appStore": true
+ },
+ {
+   "name": "Turkey",
+   "code": "TR",
+   "flag": "🇹🇷",
+   "appStore": true
+ },
+ {
+   "name": "Trinidad & Tobago",
+   "code": "TT",
+   "flag": "🇹🇹",
+   "appStore": true
+ },
+ {
+   "name": "Taiwan",
+   "code": "TW",
+   "flag": "🇹🇼",
+   "appStore": true
+ },
+ {
+   "name": "Tanzania",
+   "code": "TZ",
+   "flag": "🇹🇿",
+   "appStore": true
+ },
+ {
+   "name": "Ukraine",
+   "code": "UA",
+   "flag": "🇺🇦",
+   "appStore": true
+ },
+ {
+   "name": "Uganda",
+   "code": "UG",
+   "flag": "🇺🇬",
+   "appStore": true
+ },
+ {
+   "name": "United States",
+   "code": "US",
+   "flag": "🇺🇸",
+   "appStore": true
+ },
+ {
+   "name": "Uruguay",
+   "code": "UY",
+   "flag": "🇺🇾",
+   "appStore": true
+ },
+ {
+   "name": "Uzbekistan",
+   "code": "UZ",
+   "flag": "🇺🇿",
+   "appStore": true
+ },
+ {
+   "name": "St. Vincent & The Grenadines",
+   "code": "VC",
+   "flag": "🇻🇨",
+   "appStore": true
+ },
+ {
+   "name": "Venezuela",
+   "code": "VE",
+   "flag": "🇻🇨",
+   "appStore": true
+ },
+ {
+   "name": "Virgin Islands",
+   "code": "VI",
+   "flag": "🇻🇮",
+   "appStore": true
+ },
+ {
+   "name": "Vietnam",
+   "code": "VN",
+   "flag": "🇻🇳",
+   "appStore": true
+ },
+ {
+   "name": "Vanuatu",
+   "code": "VU",
+   "flag": "🇰🇳",
+   "appStore": true
+ },
+ {
+   "name": "Kosovo",
+   "code": "XK",
+   "flag": "🇽🇰",
+   "appStore": true
+ },
+ {
+   "name": "Yemen",
+   "code": "YE",
+   "flag": "🇾🇪",
+   "appStore": true
+ },
+ {
+   "name": "South Africa",
+   "code": "ZA",
+   "flag": "🇿🇦",
+   "appStore": true
+ },
+ {
+   "name": "Zambia",
+   "code": "ZM",
+   "flag": "🇿🇲",
+   "appStore": true
+ },
+ {
+   "name": "Zimbabwe",
+   "code": "ZW",
+   "flag": "🇿🇼",
+   "appStore": true
+ },
+ {
+   "name": "Andorra",
+   "code": "AD",
+   "flag": "🇦🇩",
+   "appStore": false
+ },
+ {
+   "name": "Antarctica",
+   "code": "AQ",
+   "flag": "🇦🇶",
+   "appStore": false
+ },
+ {
+   "name": "American Samoa",
+   "code": "AS",
+   "flag": "🇦🇸",
+   "appStore": false
+ },
+ {
+   "name": "Aruba",
+   "code": "AW",
+   "flag": "🇦🇼",
+   "appStore": false
+ },
+ {
+   "name": "Åland Islands",
+   "code": "AX",
+   "flag": "🇦🇽",
+   "appStore": false
+ },
+ {
+   "name": "Bangladesh",
+   "code": "BD",
+   "flag": "🇧🇩",
+   "appStore": false
+ },
+ {
+   "name": "Burundi",
+   "code": "BI",
+   "flag": "🇧🇮",
+   "appStore": false
+ },
+ {
+   "name": "Saint Barthélemy",
+   "code": "BL",
+   "flag": "🇧🇱",
+   "appStore": false
+ },
+ {
+   "name": "Bonaire, Sint Eustatius and Saba",
+   "code": "BQ",
+   "flag": "🇧🇶",
+   "appStore": false
+ },
+ {
+   "name": "Bouvet Island",
+   "code": "BV",
+   "flag": "🇧🇻",
+   "appStore": false
+ },
+ {
+   "name": "Cocos (Keeling) Islands",
+   "code": "CC",
+   "flag": "🇨🇨",
+   "appStore": false
+ },
+ {
+   "name": "Central African Republic",
+   "code": "CF",
+   "flag": "🇨🇫",
+   "appStore": false
+ },
+ {
+   "name": "Cook Islands",
+   "code": "CK",
+   "flag": "🇨🇰",
+   "appStore": false
+ },
+ {
+   "name": "Cameroon",
+   "code": "CM",
+   "flag": "🇨🇲",
+   "appStore": false
+ },
+ {
+   "name": "Cuba",
+   "code": "CU",
+   "flag": "🇨🇺",
+   "appStore": false
+ },
+ {
+   "name": "Curaçao",
+   "code": "CW",
+   "flag": "🇨🇼",
+   "appStore": false
+ },
+ {
+   "name": "Christmas Island",
+   "code": "CX",
+   "flag": "🇨🇽",
+   "appStore": false
+ },
+ {
+   "name": "Djibouti",
+   "code": "DJ",
+   "flag": "🇩🇯",
+   "appStore": false
+ },
+ {
+   "name": "Western Sahara",
+   "code": "EH",
+   "flag": "🇪🇭",
+   "appStore": false
+ },
+ {
+   "name": "Eritrea",
+   "code": "ER",
+   "flag": "🇪🇷",
+   "appStore": false
+ },
+ {
+   "name": "Ethiopia",
+   "code": "ET",
+   "flag": "🇪🇹",
+   "appStore": false
+ },
+ {
+   "name": "Falkland Islands (Malvinas)",
+   "code": "FK",
+   "flag": "🇫🇰",
+   "appStore": false
+ },
+ {
+   "name": "Faroe Islands",
+   "code": "FO",
+   "flag": "🇫🇴",
+   "appStore": false
+ },
+ {
+   "name": "French Guiana",
+   "code": "GF",
+   "flag": "🇬🇫",
+   "appStore": false
+ },
+ {
+   "name": "Guernsey",
+   "code": "GG",
+   "flag": "🇬🇬",
+   "appStore": false
+ },
+ {
+   "name": "Gibraltar",
+   "code": "GI",
+   "flag": "🇬🇮",
+   "appStore": false
+ },
+ {
+   "name": "Greenland",
+   "code": "GL",
+   "flag": "🇬🇱",
+   "appStore": false
+ },
+ {
+   "name": "Guinea",
+   "code": "GN",
+   "flag": "🇬🇳",
+   "appStore": false
+ },
+ {
+   "name": "Guadeloupe",
+   "code": "GP",
+   "flag": "🇬🇵",
+   "appStore": false
+ },
+ {
+   "name": "Equatorial Guinea",
+   "code": "GQ",
+   "flag": "🇬🇶",
+   "appStore": false
+ },
+ {
+   "name": "South Georgia",
+   "code": "GS",
+   "flag": "🇬🇸",
+   "appStore": false
+ },
+ {
+   "name": "Guam",
+   "code": "GU",
+   "flag": "🇬🇺",
+   "appStore": false
+ },
+ {
+   "name": "Heard Island and Mcdonald Islands",
+   "code": "HM",
+   "flag": "🇭🇲",
+   "appStore": false
+ },
+ {
+   "name": "Haiti",
+   "code": "HT",
+   "flag": "🇭🇹",
+   "appStore": false
+ },
+ {
+   "name": "Isle of Man",
+   "code": "IM",
+   "flag": "🇮🇲",
+   "appStore": false
+ },
+ {
+   "name": "British Indian Ocean Territory",
+   "code": "IO",
+   "flag": "🇮🇴",
+   "appStore": false
+ },
+ {
+   "name": "Iran",
+   "code": "IR",
+   "flag": "🇮🇷",
+   "appStore": false
+ },
+ {
+   "name": "Jersey",
+   "code": "JE",
+   "flag": "🇯🇪",
+   "appStore": false
+ },
+ {
+   "name": "Kiribati",
+   "code": "KI",
+   "flag": "🇰🇮",
+   "appStore": false
+ },
+ {
+   "name": "Comoros",
+   "code": "KM",
+   "flag": "🇰🇲",
+   "appStore": false
+ },
+ {
+   "name": "North Korea",
+   "code": "KP",
+   "flag": "🇰🇵",
+   "appStore": false
+ },
+ {
+   "name": "Liechtenstein",
+   "code": "LI",
+   "flag": "🇱🇮",
+   "appStore": false
+ },
+ {
+   "name": "Lesotho",
+   "code": "LS",
+   "flag": "🇱🇸",
+   "appStore": false
+ },
+ {
+   "name": "Monaco",
+   "code": "MC",
+   "flag": "🇲🇨",
+   "appStore": false
+ },
+ {
+   "name": "Saint Martin (French Part)",
+   "code": "MF",
+   "flag": "🇲🇫",
+   "appStore": false
+ },
+ {
+   "name": "Madagascar",
+   "code": "MG",
+   "flag": "🇲🇬",
+   "appStore": true
+ },
+ {
+   "name": "Marshall Islands",
+   "code": "MH",
+   "flag": "🇲🇭",
+   "appStore": false
+ },
+ {
+   "name": "Northern Mariana Islands",
+   "code": "MP",
+   "flag": "🇲🇵",
+   "appStore": false
+ },
+ {
+   "name": "Martinique",
+   "code": "MQ",
+   "flag": "🇲🇶",
+   "appStore": false
+ },
+ {
+   "name": "New Caledonia",
+   "code": "NC",
+   "flag": "🇳🇨",
+   "appStore": false
+ },
+ {
+   "name": "Norfolk Island",
+   "code": "NF",
+   "flag": "🇳🇫",
+   "appStore": false
+ },
+ {
+   "name": "Nauru",
+   "code": "NR",
+   "flag": "🇳🇷",
+   "appStore": false
+ },
+ {
+   "name": "Niue",
+   "code": "NU",
+   "flag": "🇳🇺",
+   "appStore": false
+ },
+ {
+   "name": "French Polynesia",
+   "code": "PF",
+   "flag": "🇵🇫",
+   "appStore": false
+ },
+ {
+   "name": "Saint Pierre and Miquelon",
+   "code": "PM",
+   "flag": "🇵🇲",
+   "appStore": false
+ },
+ {
+   "name": "Pitcairn",
+   "code": "PN",
+   "flag": "🇵🇳",
+   "appStore": false
+ },
+ {
+   "name": "Puerto Rico",
+   "code": "PR",
+   "flag": "🇵🇷",
+   "appStore": false
+ },
+ {
+   "name": "Palestinian Territory",
+   "code": "PS",
+   "flag": "🇵🇸",
+   "appStore": false
+ },
+ {
+   "name": "Réunion",
+   "code": "RE",
+   "flag": "🇷🇪",
+   "appStore": false
+ },
+ {
+   "name": "Sudan",
+   "code": "SD",
+   "flag": "🇸🇩",
+   "appStore": false
+ },
+ {
+   "name": "Saint Helena, Ascension and Tristan Da Cunha",
+   "code": "SH",
+   "flag": "🇸🇭",
+   "appStore": false
+ },
+ {
+   "name": "Svalbard and Jan Mayen",
+   "code": "SJ",
+   "flag": "🇸🇯",
+   "appStore": false
+ },
+ {
+   "name": "San Marino",
+   "code": "SM",
+   "flag": "🇸🇲",
+   "appStore": false
+ },
+ {
+   "name": "Somalia",
+   "code": "SO",
+   "flag": "🇸🇴",
+   "appStore": false
+ },
+ {
+   "name": "South Sudan",
+   "code": "SS",
+   "flag": "🇸🇸",
+   "appStore": false
+ },
+ {
+   "name": "Sint Maarten (Dutch Part)",
+   "code": "SX",
+   "flag": "🇸🇽",
+   "appStore": false
+ },
+ {
+   "name": "Syrian Arab Republic",
+   "code": "SY",
+   "flag": "🇸🇾",
+   "appStore": false
+ },
+ {
+   "name": "French Southern Territories",
+   "code": "TF",
+   "flag": "🇹🇫",
+   "appStore": false
+ },
+ {
+   "name": "Togo",
+   "code": "TG",
+   "flag": "🇹🇬",
+   "appStore": false
+ },
+ {
+   "name": "Tokelau",
+   "code": "TK",
+   "flag": "🇹🇰",
+   "appStore": false
+ },
+ {
+   "name": "Timor-Leste",
+   "code": "TL",
+   "flag": "🇹🇱",
+   "appStore": false
+ },
+ {
+   "name": "Tuvalu",
+   "code": "TV",
+   "flag": "🇹🇻",
+   "appStore": false
+ },
+ {
+   "name": "Vatican City",
+   "code": "VA",
+   "flag": "🇻🇦",
+   "appStore": false
+ },
+ {
+   "name": "Virgin Islands, British",
+   "code": "VG",
+   "flag": "🇻🇬",
+   "appStore": false
+ },
+ {
+   "name": "Wallis and Futuna",
+   "code": "WF",
+   "flag": "🇼🇫",
+   "appStore": false
+ },
+ {
+   "name": "Samoa",
+   "code": "WS",
+   "flag": "🇼🇸",
+   "appStore": false
+ },
+ {
+   "name": "Mayotte",
+   "code": "YT",
+   "flag": "🇾🇹",
+   "appStore": false
+ }
+]
