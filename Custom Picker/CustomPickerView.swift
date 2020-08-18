@@ -29,6 +29,7 @@ struct CustomPickerView: View {
                 } else {
                     filteredItems = items
                 }
+                setHeight()
             }
         )
         return ZStack {
