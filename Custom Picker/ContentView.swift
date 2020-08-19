@@ -9,14 +9,12 @@ import SwiftUI
 
 struct ContentView: View, CustomPicker {
     
-    
-
     @State private var food = ""
     @State private var foodArray = ["Milk", "Apples", "Sugar", "Eggs", "Oranges", "Potatoes", "Corn", "Bread"]
     @State private var country = ""
     @StateObject private var countriesVM = CountryViewModel()
-    @State private var presentPicker = false
     @State private var tag: Int = 1
+    @State private var presentPicker = false
 
     var body: some View {
         ZStack {
