@@ -7,13 +7,11 @@
 
 import SwiftUI
 
-struct ContentView: View, CustomPicker {
+struct ContentView: View {
     
     @State private var food = ""
     @State private var foodArray = ["Milk", "Apples", "Sugar", "Eggs", "Oranges", "Potatoes", "Corn", "Bread"]
     @State private var country = ""
-    @StateObject private var countriesVM = CountryViewModel()
-    @State private var tag: Int = 1
     @State private var presentPicker = false
 
     var body: some View {
@@ -24,16 +22,17 @@ struct ContentView: View, CustomPicker {
                         .edgesIgnoringSafeArea(.all)
                     VStack {
                         Spacer()
-                        CustomPickerTextView(presentPicker: $presentPicker,
-                                             fieldString: $food,
-                                             placeholder: "Select a food item",
-                                             tag: $tag,
-                                             selectedTag: 1)
-                        CustomPickerTextView(presentPicker: $presentPicker,
-                                             fieldString: $country,
-                                             placeholder: "Select a Country",
-                                             tag: $tag,
-                                             selectedTag: 2)
+                            TextField("Select a food item", text: $food).disabled(true)
+                                .overlay(
+                                    Button(action: {
+                                        withAnimation {
+                                            presentPicker = true
+                                        }
+                                    }) {
+                                        Rectangle().foregroundColor((Color.clear))
+                                    }
+                                )
+                        TextField("Select a country", text: $country)
                         Image("Working")
                             .resizable()
                             .frame(width: 400)
@@ -46,18 +45,9 @@ struct ContentView: View, CustomPicker {
                 }
             }
             if presentPicker {
-                if tag == 1 {
                     CustomPickerView(items: foodArray.sorted(),
                                      pickerField: $food,
-                                     presentPicker: $presentPicker,
-                                     saveUpdates: saveUpdates)
-                        .zIndex(1)
-                } else {
-                    CustomPickerView(items: countriesVM.countryNamesArray,
-                                     pickerField: $country,
                                      presentPicker: $presentPicker)
-                        .zIndex(1.0)
-                }
             }
         }
     }
