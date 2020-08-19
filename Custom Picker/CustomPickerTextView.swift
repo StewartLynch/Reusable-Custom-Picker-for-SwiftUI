@@ -10,10 +10,11 @@ import SwiftUI
 struct CustomPickerTextView: View {
     @Binding var presentPicker: Bool
     @Binding var fieldString: String
+    var caption: String
     @Binding var tag: Int
     var selectedTag: Int
     var body: some View {
-        TextField("Select Food Item", text: $fieldString).disabled(true)
+        TextField(caption, text: $fieldString).disabled(true)
             .overlay(
                 Button(action: {
                     tag = selectedTag

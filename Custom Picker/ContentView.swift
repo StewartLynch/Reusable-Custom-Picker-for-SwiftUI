@@ -26,10 +26,12 @@ struct ContentView: View, CustomPicker {
                         Spacer()
                         CustomPickerTextView(presentPicker: $presentPicker,
                                              fieldString: $food,
+                                             caption: "Select a food item",
                                              tag: $tag,
                                              selectedTag: 1)
                         CustomPickerTextView(presentPicker: $presentPicker,
                                              fieldString: $country,
+                                             caption: "Select a Country",
                                              tag: $tag,
                                              selectedTag: 2)
                         Image("Working")
