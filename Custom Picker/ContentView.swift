@@ -22,16 +22,9 @@ struct ContentView: View {
                         .edgesIgnoringSafeArea(.all)
                     VStack {
                         Spacer()
-                            TextField("Select a food item", text: $food).disabled(true)
-                                .overlay(
-                                    Button(action: {
-                                        withAnimation {
-                                            presentPicker = true
-                                        }
-                                    }) {
-                                        Rectangle().foregroundColor((Color.clear))
-                                    }
-                                )
+                        CustomPickerTextView(presentPicker: $presentPicker,
+                                             fieldString: $food,
+                                             placeholder: "Select a food item.")
                         TextField("Select a country", text: $country)
                         Image("Working")
                             .resizable()
@@ -62,5 +55,7 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+
 
 

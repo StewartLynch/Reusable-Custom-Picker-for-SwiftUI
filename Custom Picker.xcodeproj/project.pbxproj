@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BB41B53824EDD09100A68A05 /* CustomPickerTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB41B53724EDD09100A68A05 /* CustomPickerTextView.swift */; };
 		BB9599DD24EAF97500B74898 /* CustomPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB9599DC24EAF97500B74898 /* CustomPickerView.swift */; };
 		BBCC25DE24E82FA6007E17F6 /* CountryViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBCC25DC24E82FA6007E17F6 /* CountryViewModel.swift */; };
 		BBCC25DF24E82FA6007E17F6 /* countries.json in Resources */ = {isa = PBXBuildFile; fileRef = BBCC25DD24E82FA6007E17F6 /* countries.json */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BB41B53724EDD09100A68A05 /* CustomPickerTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPickerTextView.swift; sourceTree = "<group>"; };
 		BB9599DC24EAF97500B74898 /* CustomPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPickerView.swift; sourceTree = "<group>"; };
 		BBCC25DC24E82FA6007E17F6 /* CountryViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CountryViewModel.swift; sourceTree = "<group>"; };
 		BBCC25DD24E82FA6007E17F6 /* countries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = countries.json; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				BBEBCFAE24E658050016E780 /* Custom_PickerApp.swift */,
+				BB41B53724EDD09100A68A05 /* CustomPickerTextView.swift */,
 				BBEBCFB024E658050016E780 /* ContentView.swift */,
 				BB9599DC24EAF97500B74898 /* CustomPickerView.swift */,
 				BBCC25DB24E82FA6007E17F6 /* CountryFiles */,
@@ -172,6 +175,7 @@
 				BB9599DD24EAF97500B74898 /* CustomPickerView.swift in Sources */,
 				BBEBCFAF24E658050016E780 /* Custom_PickerApp.swift in Sources */,
 				BBCC25DE24E82FA6007E17F6 /* CountryViewModel.swift in Sources */,
+				BB41B53824EDD09100A68A05 /* CustomPickerTextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
