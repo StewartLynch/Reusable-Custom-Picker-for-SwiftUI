@@ -4,8 +4,8 @@ This is the completed playground for the YouTube video of the same name
 
 The starter project and video is available in the notes for the video.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=wMQ3HQ6aCTo
-" target="_blank"><img src="http://img.youtube.com/vi/wMQ3HQ6aCTo/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ATgOV70YcI8
+" target="_blank"><img src="http://img.youtube.com/vi/ATgOV70YcI8/0.jpg" 
 alt="Reusable Custom Picker for SwiftUI" width="480" height="360" border="10" /></a>
 
 ## Checklist for implementing CustomPicker
