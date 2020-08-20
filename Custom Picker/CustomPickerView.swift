@@ -7,6 +7,9 @@
 
 import SwiftUI
 
+protocol CustomPicker {
+    func saveUpdates(_ newItem: String)
+}
 
 struct CustomPickerView: View {
     var items: [String]
@@ -85,7 +88,7 @@ struct CustomPickerView: View {
                 .frame(maxWidth: 400)
                 .padding(.horizontal,10)
                 .frame(height: frameHeight)
-                .padding(.top, 20)
+                .padding(.top, 40)
                 Spacer()
             }
         }

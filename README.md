@@ -58,15 +58,15 @@ alt="Reusable Custom Picker for SwiftUI" width="480" height="360" border="10" />
   ````swift
   CustomPickerTextView(presentPicker: $presentPicker,
                        fieldString: $food,
+                       placeholder: "Select a food item.",
                        tag: $tag,
                        selectedTag: 1)
   CustomPickerTextView(presentPicker: $presentPicker,
                        fieldString: $country,
+                       placeholder: "Select a country.",
                        tag: $tag,
-                       selectedTag: 2)
+                     selectedTag: 2)
   ````
-
-  
 
 - [ ] Embed your View in a ZStack.
 

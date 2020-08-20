@@ -77,8 +77,8 @@
 			children = (
 				BBEBCFAE24E658050016E780 /* Custom_PickerApp.swift */,
 				BB41B53724EDD09100A68A05 /* CustomPickerTextView.swift */,
-				BBEBCFB024E658050016E780 /* ContentView.swift */,
 				BB9599DC24EAF97500B74898 /* CustomPickerView.swift */,
+				BBEBCFB024E658050016E780 /* ContentView.swift */,
 				BBCC25DB24E82FA6007E17F6 /* CountryFiles */,
 				BBEBCFB724E658060016E780 /* Info.plist */,
 				BBEBCFB224E658060016E780 /* Assets.xcassets */,
