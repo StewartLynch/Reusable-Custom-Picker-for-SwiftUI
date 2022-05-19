@@ -16,6 +16,7 @@ struct CustomPickerView: View {
     @State private var filteredItems: [String] = []
     @State private var filterString: String = ""
     @State private var frameHeight: CGFloat = 400
+    @FocusState private var inFocus: Bool?
     @Binding var pickerField: String
     @Binding var presentPicker: Bool
     var saveUpdates: ((String) -> Void)?
@@ -69,6 +70,7 @@ struct CustomPickerView: View {
                         .padding(.leading,10)
                     TextField("Filter by entering text", text: filterBinding)
                         .textFieldStyle(RoundedBorderTextFieldStyle())
+                        .focused($inFocus, equals: true)
                         .padding()
                     List {
                         ForEach(filteredItems, id: \.self) { item in
@@ -94,7 +96,9 @@ struct CustomPickerView: View {
             }
         }
         .edgesIgnoringSafeArea(.all)
-        .onAppear {
+        .task {
+            try? await Task.sleep(nanoseconds: 250_000_000)
+            inFocus = true
             filteredItems = items
             setHeight()
         }
