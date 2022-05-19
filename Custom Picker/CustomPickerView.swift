@@ -82,6 +82,7 @@ struct CustomPickerView: View {
                             }
                         }
                     }
+                    .listStyle(.plain)
                 }
                 .background(Color(UIColor.secondarySystemBackground))
                 .cornerRadius(10)

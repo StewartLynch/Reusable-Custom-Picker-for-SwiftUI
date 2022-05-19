@@ -8,8 +8,6 @@
 import SwiftUI
 
 struct ContentView: View, CustomPicker {
-   
-    
     @State private var food = ""
     @State private var foodArray = ["Milk", "Apples", "Sugar", "Eggs", "Oranges", "Potatoes", "Corn", "Bread"]
     @StateObject private var countriesVM = CountryViewModel()
